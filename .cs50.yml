@@ -5,4 +5,4 @@ window:
   - browser
   - terminal: false
 files:
-  - !include index.html
+  - !include src/index.html
