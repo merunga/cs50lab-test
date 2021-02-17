@@ -3,6 +3,6 @@ lab50:
     - editor
     - readme
     - browser
-    - terminal: false
-  files:
-    - !include src/index.html
+    #- terminal: false
+  #files:
+    #- !include src/index.html
