@@ -3,3 +3,4 @@ window:
   - editor
   - readme
   - browser
+  - terminal: false
