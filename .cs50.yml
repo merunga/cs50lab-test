@@ -1,8 +1,8 @@
-lab50: true
-window:
-  - editor
-  - readme
-  - browser: src/index.html
-  - terminal: false
-files:
-  - !include src/index.html
+lab50:
+  window:
+    - editor
+    - readme
+    - browser: src/index.html
+    - terminal: false
+  files:
+    - !include src/index.html
