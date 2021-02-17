@@ -4,3 +4,5 @@ window:
   - readme
   - browser
   - terminal: false
+files:
+  - !include index.html
