@@ -2,7 +2,7 @@ lab50: true
 window:
   - editor
   - readme
-  - browser
+  - browser: src/index.html
   - terminal: false
 files:
   - !include src/index.html
