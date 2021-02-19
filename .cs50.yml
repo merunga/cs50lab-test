@@ -1,6 +1,6 @@
-lab50: true
-#   window:
-#     - editor
+lab50:
+  window:
+    - editor
 #     - readme
 #     - browser
 #     - terminal: false
