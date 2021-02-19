@@ -2,7 +2,7 @@ lab50:
   window:
     - editor
     - readme
-    - browser
+    - browser: true
     - terminal: false
 #   files: &lab50_files
 #     - !include src/*
