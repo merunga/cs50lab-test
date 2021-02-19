@@ -1,8 +1,8 @@
 lab50:
   window:
     - editor
-#     - readme
-#     - browser
+    - readme
+    - browser
 #     - terminal: false
 #   files: &lab50_files
 #     - !include src/*
